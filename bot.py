@@ -1,4 +1,3 @@
----
 ## 1️⃣ فایل bot.py
 ```python
 import requests
